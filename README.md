@@ -14,7 +14,9 @@
 
 ### 3 - Practical deep learning for coders
 *J.P. Howard, 2020, University of San Francisco*
-[[Youtube playlist]]
+[[Youtube playlist]](https://youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
+[[github repo]](https://github.com/fastai/course20)
+[[fastbook]](https://github.com/fastai/fastbook)
 
 ### 2 - Deep Learning
 *Y. Lecun, A. Canziani, 2021, New York University*  
