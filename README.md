@@ -2,7 +2,7 @@
 
 ## Machine learning
 
-### Introduction to statistical learning (ISLR), 2nd edition
+### 1 - Introduction to statistical learning (ISLR), 2nd edition
 *G. James, D. Witten, T. hastie, R. Tibshirani, 2021*
 [[book]](https://www.statlearning.com/)
 
